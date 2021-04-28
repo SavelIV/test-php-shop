@@ -10,4 +10,4 @@
 
 SQL дамп базы данных находится в папке db_export.
 
-Посмотреть и сломать можно здесь: https://php-shop.saviv.site
+Посмотреть и сломать можно здесь: https://php-shop.saviv.website
